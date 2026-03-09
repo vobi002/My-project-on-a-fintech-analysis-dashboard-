@@ -18,4 +18,6 @@ This project involved analyzing a comprehensive digital payment dataset to uncov
 * **GitHub:** Version control and project documentation.
 
 ### 📊 Dashboard Preview
-*(Optional: Insert a screenshot of your dashboard here)*
+*(Optional: Insert a screenshot
+![IMG_6433](https://github.com/user-attachments/assets/267c376a-dcd6-403d-86f2-aa94de3b2415)
+
